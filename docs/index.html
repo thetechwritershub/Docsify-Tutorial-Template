@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Docsify Demo </title>
@@ -7,7 +8,15 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css" /> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" /> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/pure.css" />  -->
+
+<!-- Theme: Simple -->
+
+
 </head>
+
 <body>
   <div id="app"></div>
   <script>
@@ -16,15 +25,22 @@
       name: 'Docsify Demo Site',
       repo: 'https://github.com/thetechwritershub',
       loadSidebar: true,
-      loadNavbar:true,
+      subMaxLevel: 2,
+      loadNavbar: true,
       coverpage: true,
-      maxLevel: 2,
+      onlyCover: true,
       themeColor: '#000000',
-      formatUpdated: '{YYYY}-{MM}-{DD}'
+      formatUpdated: '{YYYY}-{MM}-{DD}',
+      search: 'auto',
+
     }
   </script>
   <!-- Docsify v4 -->
+
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
+
 </html>

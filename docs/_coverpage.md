@@ -10,9 +10,7 @@
 - ⚡ Quick setup  
 - 🚀 No build process required  
 
-[GitHub](hhttps://github.com/dharmelolar/docsify-tutorial-template)
+[GitHub](https://github.com/thetechwritershub/Docsify-Tutorial-Template)
 [Get Started](README.md)
 
 
-
-<!-- ![color](#f0f0f0) -->
