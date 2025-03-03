@@ -24,7 +24,9 @@ Next, create a _sidebar.md file in your docs folder and add the links to your pa
 ```
 > Ensure your markdown files are in the same folder as your _sidebar.md file for it to work.
 
+This is what your sidebar should look like:
 
+![Sidebar](img/sidebar.png)
 ## Using an Auto-Generated Sidebar (maxLevel)
 
 If you want Docsify to generate a sidebar from a single file, use maxLevel instead. With maxLevel, you do not need to enable the sidebar. This will create a sidebar only from README.md

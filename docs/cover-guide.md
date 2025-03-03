@@ -62,3 +62,7 @@ By default, the cover page's background color is randomly generated and changes 
   };
 </script>
 ```
+
+This is what your cover page should look like:
+
+![cover page](img/Cover-page.png)

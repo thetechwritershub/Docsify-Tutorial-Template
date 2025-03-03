@@ -38,4 +38,8 @@ To create dropdown menus, nest items under a main header using indentation:
   - [Troubleshooting](troubleshooting.md)
 ```
 
+Your header should look like te image below:
+
+![header](img/header.png)
+
 > Please note that every page you link must have a corresponding markdown file in your docs folder.
