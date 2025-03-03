@@ -1,12 +1,15 @@
 - [Home](README.md)
-- [Quick start](quickstart.md)
+- [Getting Started](getting-started.md)
 
-- Guides
-  - [Installation](installation.md)
-  - [Configuration](configuration.md)
-  - [Usage](usage.md)
+- Site customization
+  - [Site Configuration](site-configurations.md)
+  - [Create Pages](create-pages.md)
+  - [SideBar Navigation](sidebar-nav.md)
+  - [Header Navigation](header-nav.md)
+  - [Cover page](cover-guide.md)
 
-- Resources
-  - [API Reference](api-reference.md)
-  - [Best Practices](best-practices.md)
-  - [Troubleshooting](troubleshooting.md)
+- Plugins & Themes
+  - [Plugin Customization](plugin-customization.md)
+  - [Theme Customization](theme-customization.md)
+
+- [Deployment](deployment.md)
