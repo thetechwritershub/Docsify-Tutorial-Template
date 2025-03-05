@@ -10,7 +10,7 @@
 
 ## 🚀 Features  
 - ✅ **Pre-configured setup**: Sidebar, navbar, cover page, and search.  
-- 🎨 **Themes**: Dark/Light mode support + custom CSS examples.  
+- 📝 Write documentation in Markdown
 - 🔌 **Plugins**: Search, code copy and pagination. 
 - 📦 **Deployment**: Guides for GitHub Pages and Netlify.  
 
