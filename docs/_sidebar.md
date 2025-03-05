@@ -9,6 +9,6 @@
 - [Theme Customization](theme-customization.md)
 - [Deployment](deployment.md)
 
-- Demo
-  - [test](demo/test.md)
-  - [best](demo/best.md)
+- **Nested Sidebar Content**
+  - [Page 1](example/first-sample.md)
+  - [Page 2](example/second-sample.md)

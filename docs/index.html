@@ -37,18 +37,22 @@ Only one theme should be active at a time.
   <div id="app"></div>
   <script>
     window.$docsify = {
+      // Site branding configuration
       logo: "",
       name: 'Docsify Demo Site',
       repo: 'https://github.com/thetechwritershub',
+      themeColor: '#000000',
+
+      // sidebar configuration
       loadSidebar: true,
       subMaxLevel: 2,
-    //   alias: {
-    //   '/.*/_sidebar.md': '/_sidebar.md'
-    // },
+
+      // navbar configuration
       loadNavbar: true,
       coverpage: true,
       onlyCover: true,
-      themeColor: '#000000',
+     
+      // search bar configuration
       search: {
       paths: 'auto', 
       placeholder: 'Type to search...',

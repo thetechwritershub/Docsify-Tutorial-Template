@@ -4,15 +4,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green)](https://docsify-template.netlify.app/#/)
 
-**A ready-to-use Docsify template** for technical documentation, tutorials, or project wikis. Pre-configured with plugins, themes, and deployment guides.  
+**A ready-to-use Docsify template** for technical documentation, tutorials, or project wikis. Pre-configured with essential plugins, themes, and deployment guides.  
 
 ![Docsify Template Preview](docs/img/Cover-page.png) 
 
-## 🚀 Features  
-- ✅ **Pre-configured setup**: Sidebar, navbar, cover page, and search.  
-- 📝 Write documentation in Markdown
-- 🔌 **Plugins**: Search, code copy and pagination. 
-- 📦 **Deployment**: Guides for GitHub Pages and Netlify.  
+## 🚀 Features
+✅ Pre-configured setup: Sidebar, navbar, cover page, and search.
+📝 Markdown-based: Write documentation using simple Markdown syntax.
+🔌 Built-in Plugins: Search, code copy, and pagination.
+📦 Easy Deployment: Step-by-step guides for GitHub Pages and Netlify.
 
 ## 🛠️ Getting Started  
 
@@ -39,11 +39,27 @@
     ```
     docsify serve ./docs   
     ```
+## 🎨 Customization
+
+### Site Configuration
+
+Modify `docs/index.html` to:
+
+- Change site name
+- Add repository link
+- Configure plugins
+- Customize theme
+
+### Adding Content
+
+- Create new .md files in docs/ or docs/folders/
+- Update `_sidebar.md` and `_navbar.md` to include new pages
+- Write content in standard Markdown
 
 
 ## License
 
-MIT License. See LICENSE.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-Forked from TechWriters Hub? Give it a ⭐!
+If you find this template useful, consider giving it a ⭐!
