@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/docsify)](https://www.npmjs.com/package/docsify)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green)](https://your-demo-url.com)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green)](https://docsify-template.netlify.app/#/)
 
 **A ready-to-use Docsify template** for technical documentation, tutorials, or project wikis. Pre-configured with plugins, themes, and deployment guides.  
 
