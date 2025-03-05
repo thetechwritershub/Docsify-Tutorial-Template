@@ -6,13 +6,13 @@
 
 **A ready-to-use Docsify template** for technical documentation, tutorials, or project wikis. Pre-configured with plugins, themes, and deployment guides.  
 
-![Docsify Template Preview](docs/images/preview.png) *[Screenshot of your live demo]*
+![Docsify Template Preview](docs/img/Cover-page.png) 
 
 ## 🚀 Features  
 - ✅ **Pre-configured setup**: Sidebar, navbar, cover page, and search.  
 - 🎨 **Themes**: Dark/Light mode support + custom CSS examples.  
-- 🔌 **Plugins**: Search, code copy, pagination, and Google Analytics.  
-- 📦 **Deployment**: Guides for GitHub Pages, Netlify, and Vercel.  
+- 🔌 **Plugins**: Search, code copy and pagination. 
+- 📦 **Deployment**: Guides for GitHub Pages and Netlify.  
 
 ## 🛠️ Getting Started  
 
