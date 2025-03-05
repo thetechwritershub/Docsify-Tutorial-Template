@@ -9,10 +9,10 @@
 ![Docsify Template Preview](docs/img/Cover-page.png) 
 
 ## 🚀 Features
-✅ Pre-configured setup: Sidebar, navbar, cover page, and search.
-📝 Markdown-based: Write documentation using simple Markdown syntax.
-🔌 Built-in Plugins: Search, code copy, and pagination.
-📦 Easy Deployment: Step-by-step guides for GitHub Pages and Netlify.
+- **✅ Pre-configured setup:** Sidebar, navbar, cover page, and search.
+- **📝 Markdown-based:** Write documentation using simple Markdown syntax.
+- **🔌 Built-in Plugins:** Search, code copy, and pagination.
+- **📦 Easy Deployment:** Step-by-step guides for GitHub Pages and Netlify.
 
 ## 🛠️ Getting Started  
 
