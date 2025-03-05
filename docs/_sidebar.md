@@ -8,3 +8,7 @@
 - [Plugin Customization](plugin-customization.md)
 - [Theme Customization](theme-customization.md)
 - [Deployment](deployment.md)
+
+- Demo
+  - [test](demo/test.md)
+  - [best](demo/best.md)
