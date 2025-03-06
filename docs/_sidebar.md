@@ -7,6 +7,7 @@
 - [Cover page](cover-guide.md)
 - [Plugin Customization](plugin-customization.md)
 - [Theme Customization](theme-customization.md)
+- [Troubleshooting](troubleshooting.md)
 - [Deployment](deployment.md)
 
 - **Nested Sidebar Content**

@@ -1,7 +1,6 @@
 # 📖 Docsify Documentation Template  
 
 [![npm](https://img.shields.io/npm/v/docsify)](https://www.npmjs.com/package/docsify)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green)](https://docsify-template.netlify.app/#/)
 
 **A ready-to-use Docsify template** for technical documentation, tutorials, or project wikis. Pre-configured with essential plugins, themes, and deployment guides.  
@@ -55,11 +54,6 @@ Modify `docs/index.html` to:
 - Create new .md files in docs/ or docs/folders/
 - Update `_sidebar.md` and `_navbar.md` to include new pages
 - Write content in standard Markdown
-
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 If you find this template useful, consider giving it a ⭐!
