@@ -43,3 +43,5 @@ Your header should look like te image below:
 ![header](img/header.png)
 
 > Please note that every page you link must have a corresponding markdown file in your docs folder.
+
+> The default header navigation isn't fully responsive on mobile devices. To improve mobile navigation, add custom CSS for responsive behavior or limit the number of navigation items.

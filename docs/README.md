@@ -13,3 +13,10 @@ Static sites like Docusaurus and MKDocs require knowledge of React or Python for
 - Customize your site without touching JavaScript(or any language).
 
 This guide will guide you through setting up and using Docsify for technical documentation.
+
+
+## Docsify Cheatsheet
+
+> Need a quick reference? This Docsify cheatsheet has you covered! Or download [here](https://res.cloudinary.com/dharme/image/upload/v1741280975/Docsify_cheatsheet.pdf)
+
+![Docsify Cheatsheet](img/Docsify%20cheatsheet.png)
