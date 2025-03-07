@@ -26,14 +26,7 @@
    cd docsify-template
    ```
 
-2. **Install Docsify CLI globally**
-
-    ```bash
-    npm install -g docsify-cli
-    ```
-
-
-3. **Run project locally**
+2. **Run project locally**
 
     ```
     docsify serve ./docs   
