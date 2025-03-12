@@ -1,7 +1,7 @@
 - [Home](README.md)
-- [Getting Started](getting-started.md)
 
 - Site customization
+  - [Getting Started](getting-started.md)
   - [Site Configuration](site-configurations.md)
   - [Create Pages](create-pages.md)
   - [SideBar Navigation](sidebar-nav.md)
